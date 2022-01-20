@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/pages/MoviePage/MoviePage.module.css"],"names":[],"mappings":"AAAA,wDAEE,cACF,CAEA,sBACE,gBACF","file":"5.d90d0d7c.chunk.css","sourcesContent":[".btn:focus,\r\n.btn:hover {\r\n  cursor: pointer;\r\n}\r\n\r\n.btn {\r\n  margin-left: 15px;\r\n}\r\n"]}
