@@ -1,0 +1,21 @@
+nav {
+  padding: 15px;
+}
+
+.link {
+  font-family: 'Bodoni Moda', serif;
+  display: inline-block;
+  padding: 12px;
+  font-weight: 600;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.link:not(:last-child) {
+  margin-right: 10px;
+}
+
+.activeLink {
+  color: #df2214;
+  border-radius: 5px;
+}

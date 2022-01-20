@@ -1,0 +1,8 @@
+.btn:focus,
+.btn:hover {
+  cursor: pointer;
+}
+
+.btn {
+  margin-left: 15px;
+}
